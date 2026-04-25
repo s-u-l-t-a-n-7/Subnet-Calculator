@@ -1,6 +1,6 @@
 # NetMatrix Subnetting Suite v5.1
 
-![NetMatrix Demo](https://i.imgur.com/gY8wB2f.gif )
+
 
 **NetMatrix** is a professional, desktop-based IP subnetting calculator designed for network engineers, students, and IT professionals. It provides a comprehensive suite of tools for network calculation, subnet generation, and advanced VLSM planning, all wrapped in a clean and elegant user interface.
 
@@ -49,10 +49,17 @@ If you have Python installed, you can run the application from the source code.
 ## 🖼️ Screenshots
 
 **VLSM Planner in Action:**
-![VLSM Planner](https://i.imgur.com/iYh4x3n.gif )
+
 
 **Subnet Generator:**
-![Subnet Generator](https://i.imgur.com/Qk2tB8T.png )
+
 
 **IP Calculator:**
-![IP Calculator](https://i.imgur.com/k9b6g8t.png )
+
+
+
+
+
+
+
+
